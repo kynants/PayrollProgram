@@ -11,7 +11,7 @@ namespace PayrollProgram
             double payRate = Convert.ToDouble(Console.ReadLine());
 
             // 1st Input Validation
-            while (payRate < 7.5 && payRate > 18.25) 
+            while (payRate < 7.5 || payRate > 18.25) 
             {
                 Console.WriteLine("Pay rate must be between $7.50 and $18.25.");
                 Console.Write("Enter the correct pay rate: $");
@@ -23,7 +23,7 @@ namespace PayrollProgram
             Int32 hours = Convert.ToInt32(Console.ReadLine());
 
             // 2nd Input Validation
-            while (hours < 0 && hours > 40)
+            while (hours < 0 || hours > 40)
             {
                 Console.WriteLine("Hours worked must be between 0 and 40.");
                 Console.Write("Enter the correct number of hours worked: ");
