@@ -1,0 +1,11 @@
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/bin/Debug/netcoreapp2.1/PayrollProgram.deps.json
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/bin/Debug/netcoreapp2.1/PayrollProgram.runtimeconfig.json
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/bin/Debug/netcoreapp2.1/PayrollProgram.runtimeconfig.dev.json
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/bin/Debug/netcoreapp2.1/PayrollProgram.dll
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/bin/Debug/netcoreapp2.1/PayrollProgram.pdb
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/obj/Debug/netcoreapp2.1/PayrollProgram.csprojAssemblyReference.cache
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/obj/Debug/netcoreapp2.1/PayrollProgram.csproj.CoreCompileInputs.cache
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/obj/Debug/netcoreapp2.1/PayrollProgram.AssemblyInfoInputs.cache
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/obj/Debug/netcoreapp2.1/PayrollProgram.AssemblyInfo.cs
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/obj/Debug/netcoreapp2.1/PayrollProgram.dll
+/Users/kynan/RiderProjects/PayrollProgram/PayrollProgram/obj/Debug/netcoreapp2.1/PayrollProgram.pdb
